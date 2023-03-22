@@ -1,3 +1,5 @@
+First Time git and github setup
+===============================
 1. git init – It will initialize my repository as a git repository.
 2. git add . – It will do index all the file.
 3. git commit -m “Initial commit or any message”
@@ -6,3 +8,11 @@
 Ex:
 git remote set-url origin https://naveenkumardivyansh:@github.com/naveenkumardivyansh/property-management.git
 6.git push (if it won’t work) then git push --set-upstream origin master
+
+
+Next Time Onwards
+=================
+1. git pull
+2. git add .
+3. git commit -m "some message"
+4. git push

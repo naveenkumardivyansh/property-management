@@ -1,0 +1,8 @@
+1. git init – It will initialize my repository as a git repository.
+2. git add . – It will do index all the file.
+3. git commit -m “Initial commit or any message”
+4. git remote add origin https://github.com/naveenkumardivyansh/property-management.git
+5. git remote set-url origin https://USERNAME:<MYTOKEN>@github.com/USERNAME/REPO.git
+Ex:
+git remote set-url origin https://naveenkumardivyansh:@github.com/naveenkumardivyansh/property-management.git
+6.git push (if it won’t work) then git push --set-upstream origin master
